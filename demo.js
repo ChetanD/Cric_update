@@ -7,7 +7,7 @@ var xhr1 = new XMLHttpRequest();
 var msg;
 var time=0;
 var flag=0;
-var number1=["8097856680","9404730499","8087610142","8793741421","9029262799","7208652949","8108239552","8080427375","8097200718"];
+
 xhr.onreadystatechange = function() {
 	sys.puts("State: " + this.readyState);
 
