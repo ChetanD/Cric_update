@@ -1,0 +1,11 @@
+{
+  "name": "cric_update",
+  "version": "0.0.1",
+  "dependencies": {
+    "xmlhttprequest": "1.4.x"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
